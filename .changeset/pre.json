@@ -39,6 +39,7 @@
     "device-authorization-expired-polling",
     "device-authorization-grant-seam",
     "dpop-before-polled-claim",
+    "drizzle-relations-required-fields",
     "oauth-device-authentication-context",
     "oauth-provider-authentication-context",
     "oauth-provider-clear-logout-uris",
